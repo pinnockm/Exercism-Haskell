@@ -1,0 +1,1 @@
+For Haskell exercises on exercism.org
